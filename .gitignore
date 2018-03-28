@@ -1,0 +1,8 @@
+.env
+.idea/
+__pycache__/
+*.pyc
+*.log
+local_dev.py
+collected_static/
+media/
