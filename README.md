@@ -15,3 +15,10 @@
 
     8. source venv3/bin/activate
     9. pip install -r requirements.txt
+    10. ./manage.py migrate
+    11. ./manage.py runserver
+
+
+### DATABASE_URL example
+
+    DATABASE_URL='postgres://user:password@localhost/dbname'
